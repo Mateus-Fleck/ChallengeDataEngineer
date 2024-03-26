@@ -45,8 +45,6 @@ O objetivo final é poder executar uma consulta que mostre os pedidos e seus det
 
 **Diagrama de Solução**
 
-![Diagrama Embulk Meltano](https://raw.githubusercontent.com/Mateus-Fleck/ChallengeDataEngineer/db623ecbcac7fbbf969bb0994b156698f1b296a1/Challenge/doc/diagrama_embulk_meltano.jpg)
-
 Como a ATG Datta Solutions utiliza algumas ferramentas padrão, o desafio foi pensado para ser realizado utilizando algumas dessas ferramentas.
 
 As seguintes ferramentas devem ser usadas para resolver este desafio.
@@ -66,7 +64,7 @@ Base de dados:
 
 A solução deve ser baseada nos diagramas abaixo:
 
-!https://github.com/techindicium/code-challenge/raw/main/docs/diagrama_embulk_meltano.jpg
+![Diagrama Embulk Meltano](https://raw.githubusercontent.com/Mateus-Fleck/ChallengeDataEngineer/db623ecbcac7fbbf969bb0994b156698f1b296a1/Challenge/doc/diagrama_embulk_meltano.jpg)
 
 **Requisitos**
 
